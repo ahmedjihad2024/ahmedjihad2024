@@ -65,11 +65,12 @@
 
 | Concept | Details |
 |:-------:|:--------|
+| 📱 Mobile & UI | Flutter, Android, iOS, Cross-Platform Development, Responsive UI, Localization (Arabic/English), RTL/LTR Support |
 | 🏗️ Architecture | Clean Architecture, MVVM |
 | 🔄 State Management | BLoC, Cubit, Riverpod |
 | 🌐 Networking | REST APIs, Dio, Retrofit, Freezed, FCM |
 | 💳 Payments | Apple Pay, Tabby, Moyasar, ClickPay, Sadad, 3D Secure |
-| 🧪 Testing & Delivery | Unit Testing, Integration Testing, CI/CD |
+| 🧪 Testing & Delivery | Unit Testing, Integration Testing, CI/CD, GitHub Actions, Code & Technical Documentation |
 | 🧹 Code Quality | SOLID, OOP, Design Patterns, Data Structure |
 
 </div>
@@ -78,7 +79,7 @@
 
 ## 💼 Experience
 
-### 💻 Flutter Developer — AZ System Company *(Abu Dhabi, UAE · Remote)*
+### 💻 Flutter Developer — [Crafnova](https://crafnova.com/en) *(Abu Dhabi, UAE · Remote)*
 
 **Part-time · Aug 2026 – Present**
 - Maintain and enhance the company's production Flutter apps, investigating and resolving runtime issues to support stability and performance.
@@ -88,7 +89,7 @@
 - Integrated **five payment SDKs** including **3D Secure** authentication.
 - Built scalable features with **BLoC, Riverpod, Clean Architecture, Dio, and Retrofit**, collaborating with international teams.
 
-### 🎓 Flutter Mobile App Development Trainee — NTI *(Mansoura · On-site)*
+### 🎓 Flutter Mobile App Development Trainee — NTI *(Mansoura · On-site · Oct 2026 – Present)*
 - **120-hour** program: 90 hours of Flutter development + 30 hours of freelance skills.
 - Covered Dart, Flutter widgets, REST APIs, state management, MVVM, Clean Architecture, theming, localization, local databases, and **Shorebird** updates.
 
@@ -169,6 +170,21 @@
 | 🛒 **Accessories E-shop** | Flutter e-commerce app: auth, products, cart, reviews | [GitHub](https://github.com/ahmedjihad2024) |
 | 📝 **Notes REST API** | Kotlin / Spring Boot backend | [GitHub](https://github.com/ahmedjihad2024) |
 | 💬 **Realtime Chat** | Kotlin / Spring Boot realtime chat backend | [GitHub](https://github.com/ahmedjihad2024) |
+
+---
+
+## 📜 Certifications
+
+- The Flutter Development Guide, Udemy (2021) — [View certificate](https://ude.my/UC-3fbb82f6-9b07-4bc8-abac-6092375f0ed6)
+- Flutter Advanced - Clean Architecture & MVVM in Arabic, Udemy — [View certificate](https://ude.my/UC-d131c5d2-576c-4513-85b6-9ca26b452c8e)
+- The Complete Dart Learning Guide, Udemy — [View certificate](https://ude.my/UC-71f897b9-3155-408f-82f9-22c1e5153236)
+- Internship certificate — [View certificate](https://drive.google.com/file/d/1AKVlwAGa8yJzpYAod0uLVK43EVRnB8cY/view?usp=sharing)
+
+---
+
+## 🗣️ Languages
+
+Arabic | English
 
 ---
 
