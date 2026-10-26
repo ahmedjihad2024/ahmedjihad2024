@@ -192,7 +192,7 @@ Arabic | English
 
 - Kotlin & Spring Boot (REST APIs, MongoDB, PostgreSQL)
 - Jetpack Compose Multiplatform
-- Design Patterns
+- System Design
 
 ---
 
